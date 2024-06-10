@@ -1,0 +1,20 @@
+## sys_tssi_64_infinix-user 12 SP1A.210812.016 196998 release-keys
+- Manufacturer: infinix
+- Platform: mt6761
+- Codename: Infinix-X6515
+- Brand: Infinix
+- Flavor: sys_tssi_64_infinix-user
+- Release Version: 12
+- Kernel Version: 4.19.191
+- Id: SP1A.210812.016
+- Incremental: 221220V534
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Infinix/X6515-OP/Infinix-X6515:12/SP1A.210812.016/221220V476:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_infinix-user-12-SP1A.210812.016-196998-release-keys
+- Repo: infinix_infinix-x6515_dump

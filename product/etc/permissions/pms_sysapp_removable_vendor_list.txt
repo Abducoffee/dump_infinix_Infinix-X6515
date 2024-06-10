@@ -1,0 +1,13 @@
+
+com.transsnet.palmpay
+com.facebook.katana
+com.instagram.android
+com.facebook.orca
+id.mjs.etalaseapp
+com.dts.freefireth
+com.transsnet.moreplus
+com.afmobi.boomplayer
+cn.wps.moffice.lite.abroad.transsion
+com.google.android.apps.docs
+com.google.android.apps.tachyon
+com.google.android.videos
